@@ -18,4 +18,4 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <div><br/>
 
-Apaixonado por tecnologia, sempre buscando em aprender cooisas novas e encontrar soluções.
+Apaixonado por tecnologia, sempre buscando em aprender coisas novas e encontrar soluções.
