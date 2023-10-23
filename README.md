@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-taveira-79563b20a/)
 
-![Gabriel Taveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel200418&show_icons=true&theme=tokyonight)
+![Gabriel Taveira GitHub stats](https://github-readme-stats.vercel.app/api?username=TaveiraDev&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que uso no meu dia
 
